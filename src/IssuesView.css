@@ -1,0 +1,25 @@
+.issues-view {
+	display: inline-block;
+	padding: 0.5em;
+}
+
+.issue-item {
+	display: block;
+	margin: 0.5em;
+	background: #ECEFF4;
+	color: #2E3440;
+	padding: 0.5em;
+	border-radius: 3px;
+}
+
+.issue-item__label {
+	display: inline-block;
+	padding: 0.5em;
+	margin: 0.25em;
+	border-radius: 5px;
+}
+
+.active {
+	background-color: #d8dee9;
+	border: 0.25rem solid;
+}

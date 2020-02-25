@@ -1,0 +1,25 @@
+.search {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.search-box {
+	width: 100%;
+	font-size: 16px;
+	padding: 0.5em;
+	border-radius: 5px;
+}
+
+.suggestions {
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	font-size: 16px;
+	padding: 0.5em;
+	
+}
+
+.highlight {
+	background: #D8DEE9;
+	color: #2E3440;
+}
